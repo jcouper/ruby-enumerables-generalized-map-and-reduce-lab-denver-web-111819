@@ -4,3 +4,15 @@
 #  returns an array with the original values (FAILED - 2)
 # returns an array with the original values multiplied by 2 (FAILED - 3)
 #  returns an array with the original values squared (FAILED - 4)
+
+
+
+
+
+my own reduce
+  returns a running total when not given a starting point (FAILED - 5)
+  returns a running total when given a starting point (FAILED - 6)
+  returns true when all values are truthy (FAILED - 7)
+  returns false when any value is false (FAILED - 8)
+  returns true when a truthy value is present (FAILED - 9)
+  returns false when no truthy value is present (FAILED - 10)
