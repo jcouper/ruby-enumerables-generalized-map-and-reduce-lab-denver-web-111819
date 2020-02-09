@@ -5,7 +5,7 @@
 #  returns an array with the original values multiplied by 2 (FAILED - 3)
 #  returns an array with the original values squared (FAILED - 4)
 
-
+my_own_map
 
 
 
