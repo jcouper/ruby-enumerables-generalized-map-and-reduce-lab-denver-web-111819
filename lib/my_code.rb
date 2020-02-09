@@ -25,3 +25,9 @@ end
 #  returns false when any value is false (FAILED - 8)
 #  returns true when a truthy value is present (FAILED - 9)
 #  returns false when no truthy value is present (FAILED - 10)
+
+
+
+def reduce
+
+end
